@@ -170,7 +170,7 @@
         "WRAPPING_UP_2": "Może to zająć jeszcze kilka minut, ale już prawie jesteśmy na miejscu. Na tym etapie urządzenie może kilka razy uruchomić się ponownie.",
         "DONATIONS": "Darowizny",
         "DONATE_1": "Mam nadzieję, że spodoba ci się {{.constants.GLOBAL_PROD_NAME}}.",
-        "DONATE_2": "są mile widziane 😉"
+        "DONATE_2": "są mile widziane!"
     },
     "UPDATE": {
         "IN_PROGRESS": "Aktualizacja w toku...",
