@@ -188,9 +188,9 @@
         "SUPPORT_3": "where you'll find other users that are willing to help out if you're having questions.",
         "REGARDS_TEXT": "Best regards,"
     },
-    "SONIK_MIGRATION": {
-        "TITLE": "RoPieee is now Sonik!",
-        "BODY_1": "This device just updated to the latest release, and as part of that update RoPieee has been renamed to Sonik — same project, same team, new name.",
+    "VEROX_MIGRATION": {
+        "TITLE": "RoPieee is now Verox!",
+        "BODY_1": "This device just updated to the latest release, and as part of that update RoPieee has been renamed to Verox — same project, same team, new name.",
         "BODY_2": "Nothing else has changed: your configuration, zones, and settings are exactly as you left them."
     }
 }

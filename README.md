@@ -1,14 +1,14 @@
-<h1 align="center">Sonik</h1>
-<h3 align="center">Translations for Sonik's web interface</h3>
+<h1 align="center">Verox</h1>
+<h3 align="center">Translations for Verox's web interface</h3>
 <br/>
 
-Sonik is a multi-protocol audio streaming OS for Raspberry Pi devices. It can be seen as an appliance, and as such requires no computer knowledge whatsoever. Its functionality is often called a 'network bridge'.
+Verox is a multi-protocol audio streaming OS for Raspberry Pi devices. It can be seen as an appliance, and as such requires no computer knowledge whatsoever. Its functionality is often called a 'network bridge'.
 
-> This repo is the translation source for Sonik's webpage. It's a rebrand of RoPieee's `ropieee-l10n`.
+> This repo is the translation source for Verox's webpage. It's a rebrand of RoPieee's `ropieee-l10n`.
 
 ## Introduction
 
-Sonik's web interface supports multiple languages. This project contains the JSON files with 'all' text elements. The English translation (en-US) acts as the 'master' file: it is both the default language and the fallback used when a specific translation is missing a key.
+Verox's web interface supports multiple languages. This project contains the JSON files with 'all' text elements. The English translation (en-US) acts as the 'master' file: it is both the default language and the fallback used when a specific translation is missing a key.
 
 ## How does it work?
 
@@ -30,7 +30,7 @@ Welcome to {{.constants.GLOBAL_PROD_NAME}}
 
 The text between double brackets (```{{..}}```) refers to a variable that the software will inject during displaying. Do *not* change these in any way.
 
-When loading a page of Sonik's web interface, the software looks up the text using the key and subkey. If it can't find the text, it falls back to its default (English from the en-US.json file).
+When loading a page of Verox's web interface, the software looks up the text using the key and subkey. If it can't find the text, it falls back to its default (English from the en-US.json file).
 
 When new texts are added (for example, because of a new feature), the corresponding entries are added to the master file. The [TODO](TODO.md) file will show what's missing (if any) in the other translation files.
 
@@ -48,6 +48,6 @@ To summarize, keep this in mind when contributing:
 - make sure the JSON file is valid
 - make sure you don't introduce unknown keys
 
-The language files are shipped with the binary, so only an update to Sonik itself can 'enable' a new language or publish changes.
+The language files are shipped with the binary, so only an update to Verox itself can 'enable' a new language or publish changes.
 
 Finally, there's the [TODO](TODO.md) file that shows (possible) remaining items to be translated per file.
