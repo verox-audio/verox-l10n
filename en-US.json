@@ -191,6 +191,8 @@
     "VEROX_MIGRATION": {
         "TITLE": "RoPieee is now Verox!",
         "BODY_1": "This device just updated to the latest release, and as part of that update RoPieee has been renamed to Verox — same project, same team, new name.",
-        "BODY_2": "Nothing else has changed: your configuration, zones, and settings are exactly as you left them."
+        "BODY_2": "Nothing else has changed: your configuration, zones, and settings are exactly as you left them.",
+        "LEARN_MORE": "Curious about the story behind the new name?",
+        "LEARN_MORE_LINK": "Read it here"
     }
 }
