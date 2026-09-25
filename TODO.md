@@ -31,4 +31,4 @@ The following (sub)keys are missing:
 |           | INIT            | DONATIONS                   | missing    |
 |           | WELCOME         | (whole section)             | missing    |
 |           | VEROX_MIGRATION | (whole section)             | missing    |
-| **pl-PL** | VEROX_MIGRATION | (whole section)             | missing    |
+| **pl-PL** |                 |                             | up to date |
