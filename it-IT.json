@@ -17,7 +17,10 @@
     "GENERAL": {
         "BUTTON_APPLY": "Applica",
         "BUTTON_RESET": "Ripristina",
-        "BUTTON_CONTINUE": "Continua"
+        "BUTTON_CONTINUE": "Continua",
+        "BUTTON_OK": "OK",
+        "BUTTON_CANCEL": "Annulla",
+        "BUTTON_HOME": "Home"
     },
     "SYSTEM": {
         "INTRO_TEXT": "Questa sezione contiene le impostazioni di base di {{.constants.GLOBAL_PROD_NAME}} necessarie per il suo funzionamento come endpoint.",
@@ -195,5 +198,79 @@
         "BODY_2": "Nient'altro è cambiato: la configurazione, le zone e le impostazioni sono esattamente come le avevi lasciate.",
         "LEARN_MORE": "Curioso di scoprire la storia dietro il nuovo nome?",
         "LEARN_MORE_LINK": "Leggila qui"
+    },
+    "DISK_TOO_SMALL": {
+        "TITLE": "Attenzione: spazio insufficiente",
+        "TOO_SMALL": "La scheda SD di questa unità è troppo piccola: {{.constants.GLOBAL_PROD_NAME}} richiede un disco da almeno 8 GB.",
+        "NO_UPDATES": "Questo significa che l'unità non può essere aggiornata: non c'è abbastanza spazio libero disponibile.",
+        "ADVICE": "Il consiglio è di sostituire la scheda SD con una nuova.",
+        "SUPPORT_1": "Se hai bisogno di assistenza puoi visitare il",
+        "SUPPORT_2": "dove troverai altri utenti disposti ad aiutarti in caso di domande.",
+        "GUIDE": "E infine puoi anche dare un'occhiata all'eccellente",
+        "GUIDE_LINK": "guida all'installazione."
+    },
+    "ALERTS": {
+        "NEEDS_REBOOT": "Il dispositivo richiede un riavvio perché tutte le modifiche abbiano effetto.",
+        "BUTTON_REBOOT": "RIAVVIA",
+        "NEEDS_CONFIGURE": "Il dispositivo deve essere configurato perché le ultime modifiche abbiano effetto.",
+        "BUTTON_CONFIGURE": "CONFIGURA",
+        "UPDATE_AVAILABLE": "Aggiornamento scaricato e disponibile per il dispositivo:",
+        "BUTTON_INSTALL_UPDATE": "INSTALLA AGGIORNAMENTO",
+        "UPDATE_INHIBITED": "Aggiornamento disponibile, ma inibito:",
+        "BUTTON_MORE_INFO": "ALTRE INFORMAZIONI",
+        "REBOOT_TITLE": "Riavvio",
+        "REBOOT_CONFIRM": "Sicuro di voler riavviare?"
+    },
+    "SAVED": {
+        "TITLE": "Configurazione di {{.constants.GLOBAL_PROD_NAME}} salvata!",
+        "SAVED": "Le modifiche alla configurazione sono state salvate.",
+        "RUN_CONFIGURE": "Per rendere attiva questa nuova configurazione devi eseguire CONFIGURA.",
+        "RUN_REBOOT": "Per rendere attiva questa nuova configurazione devi eseguire RIAVVIA."
+    },
+    "FOOTER": {
+        "DONATE": "Dona"
+    },
+    "CONFIGURE": {
+        "IN_PROGRESS": "Il dispositivo è in fase di configurazione... Non interrompere!"
+    },
+    "FEEDBACK": {
+        "SENT": "I tuoi log sono stati inviati al team di {{.constants.GLOBAL_PROD_NAME}} con questo identificatore:",
+        "SENT_NOTE": "Indica questo identificatore quando scrivi del tuo problema sul",
+        "FAILED_TITLE": "Invio del feedback non riuscito!",
+        "FAILED_BODY": "Può essere causato, ad esempio, dalla mancanza di una connessione internet o da un firewall."
+    },
+    "LOGIN": {
+        "TITLE": "Effettua l'accesso",
+        "PASSWORD": "Password",
+        "BUTTON_LOGIN": "Accedi",
+        "ERROR_LOGOUT_FIRST": "Esci prima di accedere!",
+        "ERROR_WRONG_PASSWORD": "Password errata!"
+    },
+    "LOGOUT": {
+        "TITLE": "Sei uscito",
+        "LINE_1": "Ora sei uscito.",
+        "LINE_2": "Vuoi rientrare? Premi il pulsante qui sotto.",
+        "BUTTON_BACK": "Fammi rientrare"
+    },
+    "SERVICES": {
+        "INTRO_ROONBRIDGE": "Riproduci da Roon su questo dispositivo.",
+        "INTRO_UPMPDCLI": "Riproduci da app e server UPnP/DLNA, come BubbleUPnP o JRiver.",
+        "INTRO_SHAIRPORT": "Riproduci da iPhone, iPad o Mac con AirPlay, tramite shairport-sync.",
+        "INTRO_LIBRESPOT": "Riproduci dall'app Spotify con Spotify Connect.",
+        "INTRO_SOLOIST": "Spotify Connect, riprodotto dal motore Soloist di Spotify.",
+        "INTRO_SQUEEZELITE": "Riproduci da Lyrion Music Server (ex Logitech Media Server) con Squeezelite.",
+        "INTRO_HQPLAYER": "Permette a HQPlayer di usare questo dispositivo come adattatore audio di rete (NAA).",
+        "INTRO_SPINNER": "Riproduci da Music Assistant o altre fonti Sendspin, in sincronia tra le stanze.",
+        "INTRO_CALDERA": "Riproduci dal tuo server Plex con il client Caldera.",
+        "INTRO_OAAT": "Riproduci dal server musicale Tune, tramite OAAT.",
+        "INTRO_UPNPBRIDGE": "Fa comparire un renderer UPnP nella tua rete come player, tramite questo dispositivo.",
+        "READ_MORE": "Leggi di più",
+        "VERSION": "Versione",
+        "EXPIRES_IN": "Scade tra",
+        "DAYS": "giorni",
+        "PLEX_NOT_CONNECTED": "Plex deve essere collegato prima che questo servizio possa essere abilitato.",
+        "PLEX_CONNECT": "Collega il tuo account Plex",
+        "PLEX_ENTER_CODE_AT": "Inserisci il codice su:",
+        "PLEX_WAITING": "In attesa di autorizzazione..."
     }
 }
