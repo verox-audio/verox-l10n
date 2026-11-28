@@ -189,6 +189,7 @@
         "AUTH_ERROR_SHORT": "Az új jelszónak legalább 8 karakterből kell állnia. Nem történt módosítás.",
         "AUTH_ERROR_REQUIRED": "A védelem bekapcsolásához válasszon jelszót. Nem történt módosítás.",
         "AUTH_ERROR_FAILED": "A jelszó mentése sikertelen. Nem történt módosítás.",
+        "AUTH_ERROR_TIMEOUT": "Az eszköz nem erősítette meg időben a módosítást, ezért nem biztos, hogy sikerült menteni. Ha új jelszót állított be, a következő bejelentkezéskor próbálja meg azt; ha nem működik, továbbra is a régi jelszó érvényes.",
         "WEB_CURRENT_PASSWORD_TO_DISABLE": "A védelem kikapcsolásához adja meg a jelenlegi jelszót",
         "WEB_CURRENT_PASSWORD_TO_CHANGE": "A jelszó módosításához adja meg a jelenlegi jelszót",
         "WEB_AUTH_OFF_REMOVES_TOKENS": "Ezzel az API-tokenjei ({n}) is törlődnek: az ezeket használó integrációk működése leáll."
